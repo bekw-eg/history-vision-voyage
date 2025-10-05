@@ -15,7 +15,7 @@ export const places: Place[] = [
     country: "Казахстан",
     shortDescription: "Символ Астаны и независимости",
     description: "Монумент Байтерек — символ столицы Казахстана, представляющий собой 97-метровую башню с золотым шаром. Высота монумента символизирует год переноса столицы в Астану (1997). С смотровой площадки открывается панорамный вид на город.",
-    image: "https://images.unsplash.com/photo-1585159812596-fac104f2f069?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1598970434795-0c54fe7c0648?w=800&q=80",
     category: "monument"
   },
   {
@@ -101,11 +101,11 @@ export const places: Place[] = [
   },
   {
     id: 11,
-    name: "Сагарда Фамилия",
+    name: "Саграда Фамилия",
     country: "Испания",
     shortDescription: "Шедевр Гауди",
     description: "Саграда Фамилия — базилика в Барселоне, спроектированная Антонио Гауди. Строится с 1882 года, до сих пор не завершена. Уникальный стиль модернизма.",
-    image: "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1579782177852-62442bebba97?w=800&q=80",
     category: "temple"
   },
   {
@@ -186,7 +186,7 @@ export const places: Place[] = [
     country: "Япония",
     shortDescription: "Священная гора",
     description: "Фудзияма — действующий вулкан высотой 3776 метров. Высочайшая точка Японии. Считается священной горой. Объект всемирного наследия.",
-    image: "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1570459027562-4a916cc6113f?w=800&q=80",
     category: "nature"
   },
   {
@@ -204,7 +204,7 @@ export const places: Place[] = [
     country: "Казахстан",
     shortDescription: "Крупнейшая мечеть Центральной Азии",
     description: "Мечеть Хазрет Султан в Астане — одна из крупнейших мечетей Центральной Азии. Открыта в 2012 году. Вмещает до 10 000 молящихся.",
-    image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1684267147604-a3e5829dfaed?w=800&q=80",
     category: "temple"
   },
   {
@@ -213,7 +213,7 @@ export const places: Place[] = [
     country: "Казахстан",
     shortDescription: "Пирамида единства",
     description: "Дворец мира и согласия — пирамида высотой 77 метров в Астане. Символ единства религий и культур. Спроектирован Норманом Фостером.",
-    image: "https://images.unsplash.com/photo-1564581797339-80d428b92942?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&q=80",
     category: "modern"
   },
   {
@@ -222,7 +222,7 @@ export const places: Place[] = [
     country: "Италия",
     shortDescription: "Храм всех богов",
     description: "Пантеон — древнеримский храм, построенный во II веке. Имеет самый большой неармированный бетонный купол в мире. Теперь церковь.",
-    image: "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1568106690101-8a8c71a87380?w=800&q=80",
     category: "historical"
   },
   {
@@ -249,7 +249,7 @@ export const places: Place[] = [
     country: "Китай",
     shortDescription: "Резиденция императоров",
     description: "Запретный город — дворцовый комплекс династий Мин и Цин в Пекине. Построен в XV веке. Включает 980 зданий. Был закрыт для простых людей.",
-    image: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80",
     category: "castle"
   },
   {
